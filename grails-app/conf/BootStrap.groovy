@@ -3,10 +3,15 @@ import ua.cats.Person
 import ua.cats.Role
 import ua.cats.User
 import ua.cats.UserRole
+import org.springframework.web.context.support.WebApplicationContextUtils
 
 class BootStrap {
 
     def init = { servletContext ->
+
+        def springContext = WebApplicationContextUtils.getWebApplicationContext( servletContext )
+        springContext.getBean( "customObjectMarshallers" ).register()
+
         def userRole = Role.findByAuthority("ROLE_USER") ?: new Role(authority: "ROLE_USER").save(flush: true)
         def user = Person.findByUsername("tst") ?:
                 new Person(
