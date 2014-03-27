@@ -1,7 +1,6 @@
 package ua.cats
 
 class Category {
-    static expose = 'cat'
     static hasMany = [announcement : Announcement]
     String name
     String photo
