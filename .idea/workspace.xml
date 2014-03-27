@@ -77,47 +77,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BootStrap.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <file leaf-file-name="PersonController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/PersonController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="77" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.8189655" vertical-offset="225" max-vertical-offset="975">
-              <folding />
+            <state line="12" column="24" selection-start="319" selection-end="323" vertical-scroll-proportion="-13.043478" vertical-offset="0" max-vertical-offset="850">
+              <folding>
+                <element signature="e#17#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Announcement.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Announcement.groovy">
+      <file leaf-file-name="CategoryController.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/CategoryController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="-14.130435" vertical-offset="0" max-vertical-offset="725">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Category.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Category.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="-2.173913" vertical-offset="0" max-vertical-offset="500">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnnouncementController.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/AnnouncementController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="-9.0" vertical-offset="118" max-vertical-offset="675">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/HelloController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="102" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="425">
-              <folding />
+            <state line="12" column="43" selection-start="344" selection-end="344" vertical-scroll-proportion="0.53859967" vertical-offset="0" max-vertical-offset="800">
+              <folding>
+                <element signature="e#17#46#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,6 +117,8 @@
         <option value="$PROJECT_DIR$/grails-app/domain/ua/cats/Person.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/ua/cats/Announcement.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/ua/cats/PersonController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/ua/cats/CategoryController.groovy" />
       </list>
     </option>
   </component>
@@ -560,16 +539,16 @@
       <created>1395880789836</created>
       <updated>1395880789836</updated>
       <workItem from="1395880794247" duration="1910000" />
-      <workItem from="1395882829768" duration="2515000" />
+      <workItem from="1395882829768" duration="3322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4425000" />
+    <option name="totallyTimeSpent" value="5232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -587,7 +566,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -651,7 +630,9 @@
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/AnnouncementController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="775">
-          <folding />
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -683,7 +664,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/HelloController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="102" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="425">
+        <state line="6" column="4" selection-start="102" selection-end="125" vertical-scroll-proportion="0.26929983" vertical-offset="0" max-vertical-offset="557">
           <folding />
         </state>
       </provider>
@@ -698,6 +679,53 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="77" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Category.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="0.08976661" vertical-offset="0" max-vertical-offset="557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Dev/grails-2.3.7/dist/grails-web-2.3.7-sources.jar!/org/codehaus/groovy/grails/plugins/web/api/CommonWebApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="30" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.33294797" vertical-offset="1337" max-vertical-offset="5300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/AnnouncementController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="310" selection-end="333" vertical-scroll-proportion="0.5834829" vertical-offset="0" max-vertical-offset="775">
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Announcement.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="0.5834829" vertical-offset="0" max-vertical-offset="725">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Dev/grails-2.3.7/dist/grails-plugin-controllers-2.3.7-sources.jar!/org/codehaus/groovy/grails/plugins/web/api/ControllersApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="288" column="18" selection-start="10439" selection-end="10591" vertical-scroll-proportion="0.33294797" vertical-offset="5362" max-vertical-offset="11075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Person.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="-1.0" vertical-offset="0" max-vertical-offset="675">
@@ -708,34 +736,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/AnnouncementController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/PersonController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="-9.0" vertical-offset="118" max-vertical-offset="675">
-          <folding />
+        <state line="12" column="24" selection-start="319" selection-end="323" vertical-scroll-proportion="-13.043478" vertical-offset="0" max-vertical-offset="850">
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Announcement.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/ua/cats/CategoryController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="-14.130435" vertical-offset="0" max-vertical-offset="725">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/ua/cats/Category.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="-2.173913" vertical-offset="0" max-vertical-offset="500">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="77" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.8189655" vertical-offset="225" max-vertical-offset="975">
-          <folding />
+        <state line="12" column="43" selection-start="344" selection-end="344" vertical-scroll-proportion="0.53859967" vertical-offset="0" max-vertical-offset="800">
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
